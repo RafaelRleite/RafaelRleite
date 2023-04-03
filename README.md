@@ -46,8 +46,6 @@
 
 ###
 
-
  ![Snake animation](https://github.com/RafaelRleite/RafaelRleite/blob/output/github-contribution-grid-snake.svg")
-
     
 ###
