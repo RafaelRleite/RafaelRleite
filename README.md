@@ -46,8 +46,8 @@
 
 ###
 
-<div align="center">
- ![Snake animation](https://github.com/RafaelRleite)
-</div>
+
+ ![Snake animation](https://raw.githubusercontent.com/RafaelRleite/RafaelRleite/blob/output/snake.svg)
+
     
 ###
